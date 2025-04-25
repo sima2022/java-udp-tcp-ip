@@ -1,2 +1,2 @@
-# java-udp-tcp-ip
-java UDP/TCP client,serverTest中の駄目そうなcode
+# java-udp+tcp/ip NetBeans
+java UDP/TCP client,serverTest中の一応動いた？code
